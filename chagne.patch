@@ -1,0 +1,13 @@
+--- class.py	2022-11-20 11:43:27.131361731 +0530
++++ comment.py	2022-11-19 21:06:19.380274956 +0530
+@@ -1,6 +1,2 @@
+-class employee:
+-    def __init__(self, name, address):
+-        self.name=name
+-        self.address=address
+-emp1=employee("sajan","danchhi")
+-print(emp1.name)
+\ No newline at end of file
++print("comment")
++#this is the way to write comment in python
+\ No newline at end of file

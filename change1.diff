@@ -1,0 +1,9 @@
+2c2
+< b=input("enter another value\n")
+---
+> b=input("Enter another value\n")
+5c5
+< input(c)
+---
+> input("The sum of two entered number is "+str(c))
+\ No newline at end of file

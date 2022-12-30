@@ -1,0 +1,9 @@
+--- sum.py	2022-12-04 08:31:04.728831463 +0530
++++ student.txt	2022-11-19 21:28:59.371091476 +0530
+@@ -1,4 +1,2 @@
+-a=input("Enter a number\n")
+-b=input("Enter another number\n")
+-sum=int(a)+int(b)
+-input("The sum of two number is "+str(sum))
++sajan shrestha
++deep khadka

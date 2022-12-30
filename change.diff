@@ -1,0 +1,11 @@
+--- add1.py	2022-12-03 22:56:24.263399809 +0530
++++ add2.py	2022-12-03 22:55:15.355941488 +0530
+@@ -1,5 +1,5 @@
+ a=input("Enter one value\n")
+-b=input("enter another value\n")
++b=input("Enter another value\n")
+ c=int(a)+int(b)
+ 
+-input(c)
++input("The sum of two entered number is "+str(c))
+\ No newline at end of file
