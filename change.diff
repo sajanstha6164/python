@@ -3,6 +3,7 @@
 @@ -1,5 +1,5 @@
  a=input("Enter one value\n")
 -b=input("enter another value\n")
+
 +b=input("Enter another value\n")
  c=int(a)+int(b)
  
