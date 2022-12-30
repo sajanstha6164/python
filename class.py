@@ -3,4 +3,5 @@ class employee:
         self.name=name
         self.address=address
 emp1=employee("sajan","danchhi")
+
 print(emp1.name)
