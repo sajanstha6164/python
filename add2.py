@@ -1,4 +1,4 @@
-a=input("Enter one value\n")
+hello worda=input("Enter one value\n")
 b=input("Enter another value\n")
 c=int(a)+int(b)
 
