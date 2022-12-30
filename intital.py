@@ -1,4 +1,4 @@
-question[
+defquestion[
     ["what is my name","a\nb\n"],
     ["what is it ","a\nb\n"]
 ]
